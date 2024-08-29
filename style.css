@@ -1,13 +1,13 @@
-/* Estilos para o site de unhas com tons de verde */
+
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #e5f5e0; /* Verde pastel de fundo */
+    background-color: #e5f5e0; 
 }
 
 .cabecalho {
-    background-color: #3d7d52; /* Verde musgo */
+    background-color: #3d7d52; 
     color: #ffffff;
     display: flex;
     justify-content: space-between;
@@ -16,7 +16,7 @@ body {
 }
 
 .cabecalho-imagem {
-    width: 60px; /* Ajustar o tamanho do logo */
+    width: 60px; 
 }
 
 .cabecalho-titulo {
@@ -37,7 +37,7 @@ body {
 }
 
 .sobre {
-    background-color: #f0f8f4; /* Verde muito claro */
+    background-color: #f0f8f4; 
     padding: 50px 20px;
     text-align: center;
 }
@@ -49,7 +49,7 @@ body {
 
 .sobre-titulo {
     font-size: 36px;
-    color: #3d7d52; /* Verde musgo */
+    color: #3d7d52; 
     margin-bottom: 20px;
 }
 
@@ -71,7 +71,7 @@ body {
 
 .catalogo-titulo {
     font-size: 36px;
-    color: #3d7d52; /* Verde musgo */
+    color: #3d7d52; 
     text-align: center;
     margin-bottom: 40px;
 }
@@ -84,7 +84,7 @@ body {
 }
 
 .catalogo-div {
-    background-color: #e5f5e0; /* Verde pastel */
+    background-color: #e5f5e0;
     padding: 20px;
     border-radius: 10px;
     text-align: center;
@@ -110,13 +110,13 @@ body {
 }
 
 .tendencias-cuidados {
-    background-color: #f0f8f4; /* Verde muito claro */
+    background-color: #f0f8f4; 
     padding: 50px 20px;
 }
 
 .tendencias-titulo {
     font-size: 36px;
-    color: #3d7d52; /* Verde musgo */
+    color: #3d7d52; 
     text-align: center;
     margin-bottom: 40px;
 }
@@ -132,7 +132,7 @@ body {
 
 .tendencias-subtitulo {
     font-size: 22px;
-    color: #3d7d52; /* Verde musgo */
+    color: #3d7d52;
 }
 
 .tendencias-texto {
@@ -142,12 +142,12 @@ body {
 }
 
 .rodape {
-    background-color: #3d7d52; /* Verde musgo */
+    background-color: #3d7d52; 
     color: #ffffff;
     padding: 20px 0;
     text-align: center;
 }
 
 .rodape-imagem {
-    width: 60px; /* Ajustar o tamanho do logo */
+    width: 60px; 
 }
